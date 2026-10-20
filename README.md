@@ -3,7 +3,7 @@
 Interactive Personal Portfolio untuk UTS Pemrograman Web (Program Studi Sistem Informasi, UN PGRI Kediri).
 
 ## Live Website
-https://USERNAME-GITHUB.github.io/UTS-WEB-DHEA/
+https://dheacahyaningputri.github.io/UTS-WEB-DHEA-CAHYANING-PUTRI/
 
 ## Fitur
 - HTML5 semantik (header, nav, main, section, article, aside, footer) dengan meta tag lengkap
