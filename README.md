@@ -1,6 +1,6 @@
  # UTS-WEB-DHEA
 
-Interactive Personal Portfolio untuk UTS Pemrograman Web (Program Studi Sistem Informasi, UN PGRI Kediri).
+Interactive Personal Portfolio untuk UTS Pemrograman Web (Program Studi Sistem Informasi).
 
 ## Live Website
 https://dheacahyaningputri.github.io/UTS-WEB-DHEA-CAHYANING-PUTRI/
@@ -23,7 +23,7 @@ UTS-WEB-DHEA/
 └── README.md
 
 ## Teknologi
-HTML5, CSS3, Bootstrap 5, Bootstrap Icons, JavaScript (Vanilla)
+HTML5, CSS3, Bootstrap 5, Bootstrap Icons, JavaScript 
 
 ## Pembuat
-Dhea, Sistem Informasi, Universitas Nusantara PGRI Kediri
+Dhea Cahyaning Putri
